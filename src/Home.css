@@ -1,0 +1,25 @@
+.nagu{
+display: flex;
+justify-content: center;
+width: 200px;
+height: 80px;
+background: blue;
+margin-left:600px;
+animation-name: nagaraj;
+position: relative;
+animation-duration: 1s;
+animation-fill-mode: forwards;
+animation-iteration-count: infinite;
+
+}
+
+@keyframes nagaraj{
+form { top: 0px;}
+to   {top:200px;}
+} 
+
+.nagu h1{
+
+justify-content: center;
+color: black;
+}
