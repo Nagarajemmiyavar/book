@@ -3,4 +3,5 @@ body{
 background-image: url(./iimages/arun.jpg);
 background-repeat: no-repeat;
 background-size: 160%;
+background-attachment:fixed;
 }
